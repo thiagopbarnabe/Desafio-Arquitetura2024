@@ -60,9 +60,10 @@ Deploy (enviar diretamente para o servidor onde estara hospedada esta versão se
 É muito importante tambem a implantação de alguma ferramenta para buscar dentro do codigo, como o sourcegraph ou até o elastic seach pode ser configurado de uma forma que posssa ser usada para pesquisar termos dentro do codigo. 
 Ferramentas de buscas são ainda mais importantes quando o desenvolvimento não é inhouse e sim gerado por um fornecedor externo.
 
+![image](https://github.com/user-attachments/assets/a47e9c91-3d7e-45e6-a2c9-e599fbef5b0a)
 
 
-![image](https://github.com/user-attachments/assets/73b09e57-f83b-40ca-84b4-d1ab8e2a7143)
+
 
 
 
