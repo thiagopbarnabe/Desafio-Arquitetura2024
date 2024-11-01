@@ -30,7 +30,7 @@ No entanto cada empresa usa plataformas e ferramentas diferentes de acordo com s
 Recentemente fiz um estudo sobre este assunto e a minha conclusão foi que o Github é a melhor plataforma neste momento.
 O maior motivo para isso são os Github Actions. Os actions são como pedaços de codigo pre prontos para utilização nas esteiras.
 Os actions tornam a construção das esteiras muito mais rapidas e a manutenção é mais facil porque a comunidade esta sempre atualizando os actions.
-O gitlab seria minha segunda escolha. 
+O gitlab seria minha segunda escolha. O AWS CodeCommit tambem pode ser uma opção se toda a infraestrutura for na AWS por facilitar alguns pipelines.
 
 A estrutura das branches depende muito do tamanho da equipe de desenvolvimento e do tamanho do software. A capacidade tecnica da equipe em relação ao uso de git tambem deve ser levada em consideração.
 Algumas estruturas são padrão no mercado
@@ -61,6 +61,8 @@ Deploy (enviar diretamente para o servidor onde estara hospedada esta versão se
 Ferramentas de buscas são ainda mais importantes quando o desenvolvimento não é inhouse e sim gerado por um fornecedor externo.
 
 
+
+![image](https://github.com/user-attachments/assets/73b09e57-f83b-40ca-84b4-d1ab8e2a7143)
 
 
 
